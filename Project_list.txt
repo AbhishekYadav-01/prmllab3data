@@ -1,1 +1,52 @@
 
+*Embedded Systems and IoT Project :*
+
+**Long Range Communication**                                 
+C/C++ programming for microcontrollers | Sensor interfacing and data acquisition | Circuit design and implementation
+● Developed and implemented LoRa-based IoT project, achieving 1.1 km communication range with 54.85% packet
+loss.Designed interface circuit for sensor data transfer, demonstrating proficiency in wireless communication and
+circuit design.
+
+Github Link : 
+
+
+*Machine Learning Project :*
+
+**MOVIE GENRE CLASSIFICATION :**                                 
+Mchine Learning | SVM | Logistic Regression | Naive Bayes | Random Forest
+● In this project, we implemented and evaluated various machine
+learning models to classify movie genres based on plot
+summaries. The Support Vector Machine with a linear kernel
+achieved the highest accuracy (0.541), outperforming other
+models.The Support Vector Machine with a linear kernel
+showcasing their effectiveness in multi-class classification
+tasks,Logistic Regression and SVM with a sigmoid kernel also
+performed relatively well.
+
+Github Link : https://github.com/AbhishekYadav-01/Encryptix/tree/main/MOVIE%20GENRE%20%20CLASSIFICATION
+
+*Machine Learning Project:*
+
+**CUSTOMER CHURN PREDICTION :**                                 
+Machine Learning | Gradient Boosting | Random Forest | Logistic Regression 
+●In this project we have developed and evaluated models for
+predicting customer churn, with Gradient Boosting emerging as
+the most accurate model, offering valuable insights for customer
+retention strategies. Gradient Boosting achieved the highest
+accuracy of 87.12%, indicating its effectiveness in predicting
+customer churn. It showed high precision (0.88) and recall (0.97)
+for non-churners and improved performance for churners
+(precision of 0.77 and recall of 0.47), demonstrating a balanced
+prediction for both classes. Random Forest also performed well
+with an accuracy of 86.44%, achieving a good balance between
+precision and recall for both classes and improving the detection
+of churners (recall of 0.44). Logistic Regression provided baseline
+performance with an accuracy of 81.24%, showing high precision
+(0.83) and recall (0.96) for predicting non-churners but
+struggling with predicting churners, leading to more false
+negatives due to a low recall of 0.18.
+
+Github Link : https://github.com/AbhishekYadav-01/Encryptix/tree/main/CUSTOMER%20CHURN%20PREDICTION
+
+
+
